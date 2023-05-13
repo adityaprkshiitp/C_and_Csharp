@@ -1,0 +1,15 @@
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\bin\Debug\net7.0\C_and_Csharp.exe
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\bin\Debug\net7.0\C_and_Csharp.deps.json
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\bin\Debug\net7.0\C_and_Csharp.runtimeconfig.json
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\bin\Debug\net7.0\C_and_Csharp.dll
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\bin\Debug\net7.0\C_and_Csharp.pdb
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.csproj.AssemblyReference.cache
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.AssemblyInfoInputs.cache
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.AssemblyInfo.cs
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.dll
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\refint\C_and_Csharp.dll
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.pdb
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\C_and_Csharp.genruntimeconfig.cache
+C:\Users\Aditya Prakash\Desktop\Coding\C_and_Csharp\obj\Debug\net7.0\ref\C_and_Csharp.dll
